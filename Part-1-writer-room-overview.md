@@ -1,3 +1,4 @@
+![Technical Writing](/images/technical-writing-1024x574.png "Technical Writing")
 # 📝 Writer's Room Overview: Mastering Technical Writing Style Guides
 
 ---
