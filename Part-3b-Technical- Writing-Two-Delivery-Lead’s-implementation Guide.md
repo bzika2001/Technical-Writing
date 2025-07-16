@@ -1,7 +1,24 @@
 ![Technical Writing](/images/technical-writing-1024x574.png "Technical Writing")
 # 📘 Technical Writing Two — 80/20 Summary for Delivery Managers
 
-**Goal:** Understand the vital 20% of Technical Writing Two that helps your team get 80% of the value.
+**Goal:**  
+Understand the vital 20% of Technical Writing Two that helps your team get 80% of the value.
+
+---
+
+## 📋 Table of Contents
+
+1. [🔑 The Core Idea](#-the-core-idea)
+2. [🗂️ The Vital 20% — 6 Big Levers](#-the-vital-20--6-big-levers)
+    - [1️⃣ Use a Style Guide — and Stick to It](#1️⃣-use-a-style-guide--and-stick-to-it)
+    - [2️⃣ Always Write for the Reader](#2️⃣-always-write-for-the-reader)
+    - [3️⃣ Structure Before or After Writing](#3️⃣-structure-before-or-after-writing)
+    - [4️⃣ State Scope and Prerequisites](#4️⃣-state-scope-and-prerequisites)
+    - [5️⃣ Show, Don’t Just Tell — Use Smart Visuals and Examples](#5️⃣-show-dont-just-tell--use-smart-visuals-and-examples)
+    - [6️⃣ Revise Later — Fresh Eyes Beat First Drafts](#6️⃣-revise-later--fresh-eyes-beat-first-drafts)
+3. [✅ Where You Fit In as Delivery Manager](#️-where-you-fit-in-as-delivery-manager)
+4. [🏆 Bottom Line](#-bottom-line)
+5. [⚙️ Next Step](#️-next-step)
 
 ---
 
