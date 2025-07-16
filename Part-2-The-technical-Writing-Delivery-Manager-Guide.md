@@ -32,13 +32,13 @@ Before diving into how to write better, your team needs to understand why it mat
       
   - **Hands-On Workshops**: Go beyond theoretical lectures. Conduct interactive sessions where your team actively practices rewriting ambiguous sentences, converting long paragraphs into lists, and identifying unclear pronouns.
 
-    - **Create a Living Style Guide/Checklist**: Consolidate all the key principles into an easily accessible resource. This could be a wiki page, a shared document, or a simple checklist. Be sure to include "do's and don'ts" with concrete examples relevant to your team's specific documents.
-    
-   - **Provide Templates**: Develop templates for common document types (e.g., user stories, technical specifications, release notes) that already incorporate the new writing standards. This provides a clear and consistent starting point.
+      - **Create a Living Style Guide/Checklist**: Consolidate all the key principles into an easily accessible resource. This could be a wiki page, a shared document, or a simple checklist. Be sure to include "do's and don'ts" with concrete examples relevant to your team's specific documents.
+      
+    - **Provide Templates**: Develop templates for common document types (e.g., user stories, technical specifications, release notes) that already incorporate the new writing standards. This provides a clear and consistent starting point.
 
-    - **Leverage Tools**: Explore and recommend tools that can assist with writing, such as grammar checkers (like Grammarly) or internal linters if you're working with structured content.
+     - **Leverage Tools**: Explore and recommend tools that can assist with writing, such as grammar checkers (like Grammarly) or internal linters if you're working with structured content.
 
-    - **Dedicated Q&A Sessions**: Host regular, informal sessions where team members can bring specific writing challenges and get guidance in a supportive environment.
+     - **Dedicated Q&A Sessions**: Host regular, informal sessions where team members can bring specific writing challenges and get guidance in a supportive environment.
 
 ## 3. Foster Adoption: Support and Integration
 True adoption won't happen overnight. It requires ongoing support and integration into daily workflows.
@@ -47,11 +47,11 @@ True adoption won't happen overnight. It requires ongoing support and integratio
 
 - **Integrate into Workflow**:
 
-       - **Early Involvement**: Ensure those responsible for documentation are involved from a project's inception, not just as an afterthought at the end.
+    - **Early Involvement**: Ensure those responsible for documentation are involved from a project's inception, not just as an afterthought at the end.
 
-        - **Allocate Time**: Make sure documentation tasks are properly estimated and included in sprint planning or project timelines.
+    - **Allocate Time**: Make sure documentation tasks are properly estimated and included in sprint planning or project timelines.
 
-        - **Definition of "Done"**: Build documentation review into your team's "Definition of Done" for tasks or features. This makes it a standard part of their work.
+    - **Definition of "Done"**: Build documentation review into your team's "Definition of Done" for tasks or features. This makes it a standard part of their work.
 
 - **Regular Feedback & Coaching**: Provide constructive, principle-based feedback on documentation. Focus on 1-2 areas for improvement at a time rather than overwhelming your team. Offer individual coaching sessions for those who need more tailored support.
 
@@ -61,9 +61,9 @@ True adoption won't happen overnight. It requires ongoing support and integratio
 
 ## 4. Continuous Improvement: Monitor and Adapt
 Technical writing, like software development, thrives on iteration and continuous improvement.
-          - **Monitor Progress**: Periodically review a sample of documentation against your new standards. Are you seeing a noticeable improvement in clarity, consistency, and readability?
-          - **Gather Feedback**: Use retrospectives or quick surveys to ask what's working well and what obstacles the team is encountering when trying to apply these principles.
-          - **Be Flexible**: Not every principle will be easy for everyone to adopt immediately. Be prepared to refine your approach based on team feedback and actual results. The goal is steady improvement, not instant perfection.
+   - **Monitor Progress**: Periodically review a sample of documentation against your new standards. Are you seeing a noticeable improvement in clarity, consistency, and readability?
+   - **Gather Feedback**: Use retrospectives or quick surveys to ask what's working well and what obstacles the team is encountering when trying to apply these principles.
+   - **Be Flexible**: Not every principle will be easy for everyone to adopt immediately. Be prepared to refine your approach based on team feedback and actual results. The goal is steady improvement, not instant perfection.
 
 By thoughtfully implementing these strategies, you'll empower your team to become more effective communicators, leading to higher-quality documentation and a smoother, more efficient project delivery process.
 
