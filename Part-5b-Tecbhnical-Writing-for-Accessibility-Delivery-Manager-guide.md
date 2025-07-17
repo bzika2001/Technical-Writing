@@ -3,7 +3,7 @@
 
 Sure! Here's your content formatted in **Markdown (`.md`)** for your documentation:
 
-```markdown
+
 # 📘 Accessibility in Technical Writing: A Guide for Delivery Managers
 
 Accessibility in documentation benefits people with permanent, temporary, or situational disabilities. As a Delivery Manager, your role is to ensure accessibility becomes a habit within your team's writing process — not just a box-tick.
@@ -116,6 +116,4 @@ As Delivery Manager, you don’t need to be the expert — but you do need to **
 
 **Next ➡️** [Part-4-Error-message.md](./Part-4-Error-message.md)
 
-```
 
-Let me know if you want a matching button layout or styled page (e.g. with CSS or HTML formatting for GitHub Pages or internal wikis).
