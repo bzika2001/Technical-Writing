@@ -1,7 +1,7 @@
 
 ![Technical Writing](/images/technical-writing-1024x574.png "Technical Writing")
 
-Sure! Here's your content formatted in **Markdown (`.md`)** for your documentation:
+
 
 
 # 📘 Accessibility in Technical Writing: A Guide for Delivery Managers

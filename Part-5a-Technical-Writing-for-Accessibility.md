@@ -1,11 +1,7 @@
 
 ![Technical Writing](/images/technical-writing-1024x574.png "Technical Writing")
 
-Here’s your **Technical Writing for Accessibility** guide in Markdown with a **Table of Contents** added, using internal anchor links. These links work well in most Markdown viewers, GitHub, and documentation generators like MkDocs or Docsify.
 
----
-
-````markdown
 # ♿ Technical Writing for Accessibility
 
 > Writing for accessibility ensures your documentation is inclusive and usable by **everyone**, including those with **permanent**, **temporary**, or **situational** disabilities. Great technical writing is not only clear — it's accessible.
@@ -152,8 +148,7 @@ Use accessibility checkers or plugins in your writing tools to spot issues early
   </a>
 
 </div>
-```
+
 
 ---
 
-Let me know if you want me to generate a **PDF** version, or if you're planning to use a specific documentation generator — I can adjust the syntax accordingly (e.g., for MkDocs, GitBook, Docusaurus, etc.).
